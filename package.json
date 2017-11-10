@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Domenico Rizzo",
+    "email": "domenico.rizzo@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/willypuzzle/ts-vuetify-dom-field/issues"
+  },
+  "dependencies": {
+    "dom-validator": "^1.1.1",
+    "vuetify": "^0.16.8"
+  },
+  "description": "Typescript-vuetify input field manager",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/willypuzzle/ts-vuetify-dom-field",
+  "keywords": [
+    "field",
+    "vuetify"
+  ],
+  "license": "ISC",
+  "main": "VuetifyField.vue",
+  "maintainers": [
+    {
+      "name": "willypuzzle",
+      "email": "domenico.rizzo@gmail.com"
+    }
+  ],
+  "name": "ts-vuetify-dom-field",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willypuzzle/ts-vuetify-dom-field.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
