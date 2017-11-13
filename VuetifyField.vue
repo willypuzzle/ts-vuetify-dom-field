@@ -70,7 +70,7 @@
 
 <script lang="ts">
     import Vue, { ComponentOptions } from 'vue';
-    import {COMPONENTS_HELPER} from '../vue-helpers/index'
+    import {COMPONENTS_HELPER} from 'ts-vue-dom-helper'
 
     interface Value {
         value: any;
